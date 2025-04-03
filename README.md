@@ -1,6 +1,6 @@
 # food_tournament
 
-A Flutte app for tournament ranking foods.
+A Flutter app for tournament ranking foods.
 
 ## Getting Started
 
